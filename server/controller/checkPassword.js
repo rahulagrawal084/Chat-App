@@ -24,7 +24,7 @@ async function checkPassword(req, res) {
             email : user.email
         }
 
-        const token = await jwt.sign(tokenData,process.env.JWT_SECRET_KEY, { expiresIn : "7d"})
+        const token = await jwt.sign(tokenData,process.env.JWT_SECRET_KEY, { expiresIn : "45d"})
         //converted id and email in token
 
         const cookieOptions = {
