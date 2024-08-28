@@ -1,3 +1,7 @@
+# About Project
+
+A real-time chat application built using React, Socket.io, Redux, Node.js and MongoDB. 
+
 # Key Features
 
 - **Real-Time Messaging:** Users can chat in real-time thanks to the integration of Socket.io.
@@ -5,8 +9,6 @@
 - **Redux for State Management:** Efficient and scalable state management using Redux.
 - **MongoDB for Data Storage:** Persistent storage of user data and chat messages.
 - **Responsive UI:** Fully responsive design for seamless usage on both desktop and mobile devices.
-- **Notifications:** Real-time notifications for incoming messages.
-- **Group Chat:** Create and join group chats.
 
 # Technologies Used
 
