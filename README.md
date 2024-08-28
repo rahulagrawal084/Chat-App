@@ -67,6 +67,8 @@ Open your browser and go to http://localhost:3000.
 * Send and receive messages in real-time.
 * Create group chats and add participants.
 
+# Screenshots
+
 ![Screenshot 2024-08-28 225500](https://github.com/user-attachments/assets/416b6004-11f4-43da-b735-9f169d9a9ff0)
 ![Screenshot 2024-08-28 225556](https://github.com/user-attachments/assets/b1a9629e-dc42-47c3-9c6f-2ec548e1bbca)
 ![Screenshot 2024-08-28 225615](https://github.com/user-attachments/assets/c8cc81a3-160c-4169-99ef-5b47b4b52999)
